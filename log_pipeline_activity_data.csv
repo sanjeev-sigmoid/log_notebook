@@ -1,0 +1,5 @@
+log_id,user_friendly_name,datafactory_name,pipeline_name,pipelinerunid,correlation_id,duration,trigger_type,trigger_id,trigger_name,trigger_time,start_time,end_time,status
+1,Uttam,default_datafactory_name,default_pipeline_name,default_pipelinerunid,abc123,,default_trigger_type,default_trigger_id,default_trigger_name,2000-01-01T00:00:00.0000000,2023-07-23T04:49:12.9630000,,In Progress
+2,Uttam,default_datafactory_name,default_pipeline_name,default_pipelinerunid,abc123,00:00:09.7118520,default_trigger_type,default_trigger_id,default_trigger_name,2000-01-01T00:00:00.0000000,2023-07-23T04:49:12.9630000,2023-07-23T04:49:22.6730000,Success
+3,Uttam,adf-schdulestream,DBNotebook,5b892a74-dd82-4a4f-854f-d1accb0d482e,abc123,,Manual,1ef7af5576414835b250,Sandbox,2023-07-23T04:52:38.6070000,2023-07-23T04:52:49.7500000,,In Progress
+4,Uttam,adf-schdulestream,DBNotebook,5b892a74-dd82-4a4f-854f-d1accb0d482e,abc123,00:00:15.5541510,Manual,1ef7af5576414835b250,Sandbox,2023-07-23T04:52:38.6070000,2023-07-23T04:52:49.7500000,2023-07-23T04:53:05.3030000,Success

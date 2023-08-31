@@ -1,0 +1,5 @@
+log_id,user_friendly_name,cluster_name,duration,activity_runid,pipeline_runid,pipeline_name,activity_name,start_time,end_time,source_type,sink_type,status
+1,Uttam,MyCluster,,activity123,default_pipelinerunid,default_pipeline_name,MyActivity,2023-07-23T04:49:15.4970000,,Source,Sink,In Progress
+2,Uttam,MyCluster,00:00:05.0260490,activity123,default_pipelinerunid,default_pipeline_name,MyActivity,2023-07-23T04:49:15.4970000,2023-07-23T04:49:20.5200000,Source,Sink,Success
+3,Uttam,MyCluster,,activity123,5b892a74-dd82-4a4f-854f-d1accb0d482e,DBNotebook,MyActivity,2023-07-23T04:52:51.8330000,,Source,Sink,In Progress
+4,Uttam,MyCluster,00:00:11.1799180,activity123,5b892a74-dd82-4a4f-854f-d1accb0d482e,DBNotebook,MyActivity,2023-07-23T04:52:51.8330000,2023-07-23T04:53:03.0130000,Source,Sink,Success
